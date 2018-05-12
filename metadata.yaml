@@ -36,6 +36,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Sukhovo-Kobylin
 description: Translations of Свадьба Кречинского (Krechinsky's Wedding) by Sukhovo-KobylinSukhovo-Kobylin,
   and Женитьба (Marriage) by Gogol.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37721#------------------------------------------------------------------------------------------
 gutenberg_issued: '2011-10-11'
 gutenberg_type: Text
 identifiers:
