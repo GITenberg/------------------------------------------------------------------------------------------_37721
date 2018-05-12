@@ -1,0 +1,52 @@
+_repo: '------------------------------------------------------------------------------------------_37721'
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Konstantinidis, Agathoklis
+    alias: Κωνσταντινίδης, Αγαθοκλής
+    birthdate: 1854
+    deathdate: 1920
+    gutenberg_agent_id: '39007'
+    url: http://www.gutenberg.org/2009/agents/39007
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  - agent_name: Sukhovo-Kobylin, A. (Aleksandr)
+    aliases:
+    - Sukhovo-Kobylin, Aleksandr Vasil'evich
+    - Suchowo-Kobylin, Aleksander Wasylewicz
+    - Suchovo-Kobylin, Alexander V.
+    - Сухово-Кобылин, Александр Васильевич
+    birthdate: 1817
+    deathdate: 1903
+    gutenberg_agent_id: '39006'
+    url: http://www.gutenberg.org/2009/agents/39006
+    wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Sukhovo-Kobylin
+description: Translations of Свадьба Кречинского (Krechinsky's Wedding) by Sukhovo-KobylinSukhovo-Kobylin,
+  and Женитьба (Marriage) by Gogol.
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37721'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian drama -- Translations into Greek'
+- !lcc 'PG'
+title: Ο Γάμος του Κρεντσίνσκη, Κωμωδία εις τρεις πράξεις - Πανδρολογήματα, Κωμωδία
+  εις δύο πράξεις
+url: http://www.gutenberg.org/ebooks/37721
